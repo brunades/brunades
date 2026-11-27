@@ -5,7 +5,7 @@
   <tr>
     <td width="40%" valign="top">
       <img src="assets/profile.png" width="100%" alt="Profile artwork" />
-      <p align="right">
+      <p>
         <a href="https://www.linkedin.com/in/bruna-contino-developer/">LINKEDIN ↗</a>
       </p>
     </td>
